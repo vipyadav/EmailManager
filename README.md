@@ -1,6 +1,6 @@
 # EmailManager
 
-It is a WPF Application which uses Pop3 and Imap protocol to downloand emails from your inbox.
+It is a WPF Application which uses Pop3 and Imap protocol to download emails from your inbox.
 
 In this repo, We have used following technical topics.
   - Factory Design Pattern
